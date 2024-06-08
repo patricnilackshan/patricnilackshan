@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @patricnilackshan
+- 👀 I’m interested in Technology, particularly gaming, and exploring new tech.
+- 🌱 I’m currently learning React, Express, and TailwindCSS.
+- 💞️ I’m looking to collaborate on projects related to gaming, technology, or software development.
+- 📫 How to reach me pnilackshan@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've completed nearly 200 computer games and enjoy exploring technology by finding and utilizing its potential vulnerabilities. I'm skilled in repairing computers and gadgets, and proficient in Conda, Docker, Git, Markdown, Python, C++, Java, and JavaScript.
