@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router" width="40" height="40" style="background-color: #f0f0f0;"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40" style="background-color: #f0f0f0;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" style="background-color: #f0f0f0;"/> 
   </a>
   <a href="https://vitejs.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" style="background-color: #f0f0f0;"/> 
