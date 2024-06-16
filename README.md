@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/patricnilackshan/patricnilackshan/main/images/CoverPhoto.gif" width="2500" height="400"></img>
+
 <h1 align="center">👋 Hi, I’m Patric Nilackshan</h1>
 <h3 align="center">Aspiring CS Engineer</h3>
 
