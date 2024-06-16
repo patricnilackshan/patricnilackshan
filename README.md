@@ -77,11 +77,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricnilackshan" alt="patricnilackshan" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patricnilackshan&show_icons=true&locale=en" alt="patricnilackshan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricnilackshan" alt="patricnilackshan" /></p>
-
 - 👀 I’m interested in Technology, particularly gaming, and exploring new tech.
 - 🌱 I’m currently learning React, Express, and TailwindCSS.
 - 💞️ I’m looking to collaborate on projects related to gaming, technology, or software development.
