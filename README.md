@@ -4,6 +4,14 @@
 <h3 align="center">Aspiring CS Engineer</h3>
 
 
+- 👀 I’m interested in Technology, particularly gaming, and exploring new tech.
+- 🌱 I’m currently learning React, Express, and TailwindCSS.
+- 💞️ I’m looking to collaborate on projects related to gaming, technology, or software development.
+- 📫 How to reach me pnilackshan@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've completed nearly 200 computer games and enjoy exploring technology by finding and utilizing its potential vulnerabilities. I'm skilled in repairing computers and gadgets, and proficient in Conda, Docker, Git, Markdown, Google Dorking, Python, C++, Java, JavaScript and muchmore.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/patricnilackshan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="facebook" height="30" width="40" /></a>
@@ -79,13 +87,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patricnilackshan&show_icons=true&locale=en" alt="patricnilackshan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricnilackshan" alt="patricnilackshan" /></p>
-
-
-- 👀 I’m interested in Technology, particularly gaming, and exploring new tech.
-- 🌱 I’m currently learning React, Express, and TailwindCSS.
-- 💞️ I’m looking to collaborate on projects related to gaming, technology, or software development.
-- 📫 How to reach me pnilackshan@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've completed nearly 200 computer games and enjoy exploring technology by finding and utilizing its potential vulnerabilities. I'm skilled in repairing computers and gadgets, and proficient in Conda, Docker, Git, Markdown, Google Dorking, Python, C++, Java, JavaScript and muchmore.
-
-
