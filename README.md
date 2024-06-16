@@ -1,4 +1,4 @@
-<h1 align="center">- 👋 Hi, I’m Patric Nilackshan</h1>
+<h1 align="center">👋 Hi, I’m Patric Nilackshan</h1>
 <h3 align="center">Aspiring CS Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
