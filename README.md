@@ -87,3 +87,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patricnilackshan&show_icons=true&locale=en" alt="patricnilackshan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricnilackshan" alt="patricnilackshan" /></p>
+
+
+**Knowing Code is GOOD**
+**Knowing Error is IMPORTANT**
