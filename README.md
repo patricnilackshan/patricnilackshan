@@ -5,11 +5,11 @@
 
 
 - 👀 I’m interested in Technology, particularly gaming, and exploring new tech.
-- 🌱 I’m currently learning React, Express, and Go.
+- 🌱 I’m currently learning React and Express.
 - 💞️ I’m looking to collaborate on projects related to gaming, technology, or software development.
 - 📫 How to reach me pnilackshan@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've completed nearly 200 computer games and enjoy exploring technology by finding and utilizing its potential vulnerabilities. I'm skilled in repairing computers and gadgets, and proficient in Conda, Docker, Git, Markdown, Google Dorking, Python, C++, Java, JavaScript, TailwindCSS and muchmore.
+- ⚡ Fun fact: I've completed nearly 200 computer games and enjoy exploring technology by finding and utilizing its potential vulnerabilities. I'm skilled in repairing computers and gadgets, and proficient in Conda, Docker, Git, Go, Google Dorking, Markdown, Python, C++, Java, JavaScript, TailwindCSS and muchmore.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +38,9 @@
   </a>
   <a href="https://github.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="background-color: #f0f0f0;"/> 
+  </a>
+  <a href="https://go.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" style="background-color: #f0f0f0;"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color: #f0f0f0;"/> 
