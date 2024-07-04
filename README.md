@@ -55,8 +55,7 @@
 
 <hr/>
 <div align="center">
-  <h3 style="border-bottom: none;">🐍 Contributions 🐍</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/patricnilackshan/patricnilackshan/output/github-contribution-grid-snake.svg" />
+  <h3 style="border-bottom: none;">🔮 Fun Fact 🔮</h3>
   <h3>✨ Knowing Code is GOOD ✨</h3>
   <h3>⚠️ Knowing Error is IMPORTANT ⚠️</h3>
   <br/>
