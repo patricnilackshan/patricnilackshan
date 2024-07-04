@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <h1>A passionate CS Engineer from Sri Lanka 🇱🇰</h1>
+  <h1 style="border-bottom: none;">A passionate CS Engineer from Sri Lanka 🇱🇰</h1>
   <h3 style="border-bottom: none;"> 🌱  I’m currently learning React and Express. </h3>
   <h3 style="border-bottom: none;"> 🛠️  Skilled in repairing computers and gadgets. </h3>
   <h3 style="border-bottom: none;"> 👀  I’m interested in Technology, particularly gaming and exploring new tech. </h3>
