@@ -9,9 +9,10 @@
 
 <div align="center">
   <h1>A passionate CS Engineer from Sri Lanka 🇱🇰</h1>
+  <br/>
   <h3 style="border-bottom: none;"> 🌱  I’m currently learning React and Express. </h3>
   <h3 style="border-bottom: none;"> 🛠️  Skilled in repairing computers and gadgets. </h3>
-  <h3 style="border-bottom: none;"> 👀  I’m interested in Technology, particularly gaming, and exploring new tech. </h3>
+  <h3 style="border-bottom: none;"> 👀  I’m interested in Technology, particularly gaming and exploring new tech. </h3>
   <h3 style="border-bottom: none;"> 🎮  I've conquered nearly 200 computer games and love uncovering technology's vulnerabilities. </h3>
   <h3 style="border-bottom: none;"> 💻  I’m looking to collaborate on projects related to gaming, technology, or software development. </h3>
   <br/>
