@@ -1,25 +1,25 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patricnilackshan.patricnilackshan" /> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patricnilackshan.patricnilackshan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%E2%9C%A8+Hello+there!+%F0%9F%91%8B;%F0%9F%A4%93+I%E2%80%99m+Patric+Nilackshan!;%E2%9A%A1+Aspiring+CS+Engineer;%E2%9A%A1+Cybersecurity+Professional;%E2%9A%A1+Web+App+Developer;%E2%9A%A1+Gamer+%7C+Tinkerer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%E2%9C%A8+Hello+there!+%F0%9F%91%8B;%F0%9F%A4%93+I%E2%80%99m+Patric+Nilackshan!;%E2%9A%A1+Aspiring+CS+Engineer+%E2%9A%A1;%E2%9A%A1+Cybersecurity+Professional+%E2%9A%A1;%E2%9A%A1+Web+App+Developer+%E2%9A%A1;%E2%9A%A1+Gamer+%7C+Tinkerer+%E2%9A%A1;" />
 </h1>
 
 <img src="https://raw.githubusercontent.com/patricnilackshan/patricnilackshan/main/images/CoverPhoto.gif" width="2500" height="400"></img>
 
 
 <div align="center">
-<h2>A passionate CS Engineer from Sri Lanka 🇱🇰</h2>
+<h1 style="border-bottom: none;">A passionate CS Engineer from Sri Lanka 🇱🇰</h1>
 
-🌱 I’m currently learning **React** and **Express**.
+<h3 style="border-bottom: none;"> 🌱 I’m currently learning **React** and **Express**. </h3>
 
-🛠️ Skilled in repairing computers and gadgets.
+<h3 style="border-bottom: none;"> 🛠️ Skilled in repairing computers and gadgets. </h3>
 
-👀 I’m interested in Technology, particularly gaming, and exploring new tech.
+<h3 style="border-bottom: none;"> 👀 I’m interested in Technology, particularly gaming, and exploring new tech. </h3>
 
-🎮 I've conquered nearly 200 computer games and love uncovering technology's vulnerabilities.
+<h3 style="border-bottom: none;"> 🎮 I've conquered nearly 200 computer games and love uncovering technology's vulnerabilities. </h3>
 
-💻 I’m looking to collaborate on projects related to gaming, technology, or software development.
-
+<h3 style="border-bottom: none;"> 💻 I’m looking to collaborate on projects related to gaming, technology, or software development. </h3>
+</br>
 </div>
 
 <hr/>
