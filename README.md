@@ -8,12 +8,11 @@
 </h1>
 
 <div align="center">
-  <h1 style="border-bottom: none;">A passionate CS Engineer from Sri Lanka 🇱🇰</h1>
-  <h3 style="border-bottom: none;"> 🌱  I’m currently learning React and Express. </h3>
-  <h3 style="border-bottom: none;"> 🛠️  Skilled in repairing computers and gadgets. </h3>
-  <h3 style="border-bottom: none;"> 👀  I’m interested in Technology, particularly gaming and exploring new tech. </h3>
-  <h3 style="border-bottom: none;"> 🎮  I've conquered nearly 200 computer games and love uncovering technology's vulnerabilities. </h3>
-  <h3 style="border-bottom: none;"> 💻  I’m looking to collaborate on projects related to gaming, technology, or software development. </h3>
+  <h1 style="border-bottom: none;">A passionate CS & Engineering student from Sri Lanka 🇱🇰</h1>  
+  <h3 style="border-bottom: none;"> 🛠️  Skilled in **Python, Java, C/C++, Go, JavaScript, React, Node.js, Express, and Ballerina** </h3>
+  <h3 style="border-bottom: none;"> 👀  Experienced in **cybersecurity tools**: Wireshark, Nmap, Burp Suite, Bettercap, Metasploit and reverse engineering   </h3>
+  <h3 style="border-bottom: none;"> 💻  Hands-on with **Linux environments**, Docker, Nginx, Git, and cloud-based security practices </h3>
+  <h3 style="border-bottom: none;"> 🎮  Interested in **technology, gaming, and exploring vulnerabilities** </h3>
   <br/>
 </div>
 
