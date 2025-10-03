@@ -9,10 +9,10 @@
 
 <div align="center">
   <h1 style="border-bottom: none;">A passionate CS Engineer from Sri Lanka 🇱🇰</h1>  
-  <h3 style="border-bottom: none;"> 🛠️  Skilled in **Python, Java, C/C++, Go, JavaScript, React, Node.js, Express, and Ballerina** </h3>
-  <h3 style="border-bottom: none;"> 👀  Experienced in **cybersecurity tools**: Wireshark, Nmap, Burp Suite, Bettercap, Metasploit and reverse engineering   </h3>
-  <h3 style="border-bottom: none;"> 💻  Hands-on with **Linux environments**, Docker, Nginx, Git, and cloud-based security practices </h3>
-  <h3 style="border-bottom: none;"> 🎮  Interested in **technology, gaming, and exploring vulnerabilities** </h3>
+  <h3 style="border-bottom: none;">🛠️ Skilled in Python, Java, Ballerina, Node.js, C/C++ and Go</h3>
+  <h3 style="border-bottom: none;">👀 Experienced in Wireshark, Nmap, Burp Suite, Bettercap, Metasploit and reverse engineering</h3>
+  <h3 style="border-bottom: none;">💻 Hands-on with Linux environments, Docker, Nginx, Git, and cloud-based security practices</h3>
+  <h3 style="border-bottom: none;">🎮 Interested in technology, gaming, and exploring vulnerabilities</h3>
   <br/>
 </div>
 
